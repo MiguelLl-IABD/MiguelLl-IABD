@@ -1,7 +1,7 @@
 <!--English-->
 <h1>Greetings 👋</h1>
 <p>This GitHub has been created as a tool to learn Artificial Intelligence y Big Data as I learn it all.</p>
-<h2>About me</h2>
+<h2 style="color:blue;">About me</h2>
 <p>I'm Miguel Llorente and I've studied Web Applications Development through vocational studies in Spain</p>
 <p>Also I've done an Erasmus+ traineeship in Croatia, while so I was able to learn a lot from great people and proffesionals (thanks to all them)</p>
 <p>I've learnt SQL, C#, PHP, JS, Angular... so I'll say that I have bit of a knowledge of programing by now, but have a lot to learn still.</p>
@@ -11,7 +11,7 @@
 <!--Spanish-->
 <h1>Saludos 👋</h1>
 <p>Este GitHub ha sido creado como una herramienta para aprender Inteligencia Artificial y Big Data a medida que lo voy estudiando y aprendiendo todo. </p>
-<h2>Acerca de mí</h2>
+<h2 style="color:blue;">Acerca de mí</h2>
 <p>Soy Miguel Llorente y he estudiado Desarrollo de Aplicaciones Web a través de Formación Profesional Superior en España</p>
 <p>También realicé mis practicas mediante Erasmus+ en Croacia, en ese tiempo pude aprender mucho de grandes personas (gracias a todos ellos)</p>
 <p>He aprendido SQL, C#, PHP, JS, Angular... así que voy a decir que tengo un poco de conocimiento de programación por ahora, pero tengo mucho que aprender todavía. </p>
